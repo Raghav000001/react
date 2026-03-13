@@ -1,4 +1,54 @@
-## daily tasks
+# ⚛️ React Learning Series
 
-- vite project setup, jsx format , react components
-- vite react peoject setup => npm create vite@latest .
+> A structured, day-by-day React learning journey — documented and maintained by **Raghav**.
+
+---
+
+## 📖 About This Repository
+
+This repository is authored and maintained by **Raghav** as part of a  **React teaching series**. Each day, I teach, and document React concepts with hands-on tasks and projects. The goal is to build a strong foundation in React through consistent, incremental progress — making this repository a live record of my growth as a React developer.
+
+Whether you are a fellow learner or a recruiter reviewing my profile, feel free to explore the daily logs and projects below.
+
+---
+
+## 📅 Daily Task Log
+
+### Day 0 — The Hard Way First (Manual Setup)
+
+* Project setup using **Parcel** as the bundler — manual configuration from scratch
+* Writing UI with **`React.createElement()`** instead of JSX — understanding what JSX compiles down to
+* Realized the verbosity and complexity of `createElement()` vs JSX syntax
+* This hands-on experiment made the importance of **JSX** and **Vite** crystal clear
+
+### Day 1 — Getting Started with React
+
+* Vite project setup and understanding the JSX format
+* React components — structure and best practices
+* Setting up a Vite + React project: `npm create vite@latest .`
+
+### Day 2 — Components & Styling
+
+* Component composition patterns
+* Low-level design of the Swiggy home page (clone)
+* Introduction to Tailwind CSS
+* React Fragments — avoiding unnecessary DOM wrappers
+
+---
+
+## 🛠️ Tech Stack
+
+* **React** (via Vite)
+* **JSX**
+* **Tailwind CSS**
+
+---
+
+## 👤 Author
+
+**Raghav**
+- GitHub: [@raghav](https://github.com/raghav)
+
+---
+
+> ⭐ If you find this series helpful or interesting, consider giving the repository a star!
