@@ -34,6 +34,15 @@ Whether you are a fellow learner or a recruiter reviewing my profile, feel free 
 * Introduction to Tailwind CSS
 * React Fragments — avoiding unnecessary DOM wrappers
 
+### Day 3 — Config-Driven UI & React Props In Depth
+
+* **Config-driven UI** — driving what the UI renders from data/config rather than hardcoding structure
+* Built a dynamic restaurant listing using a `resList` array of objects (Swiggy-style mock data)
+* **React Props** — passing data from parent to child components
+* Understood how props make components reusable and dynamic
+* Mapped over data with `.map()` and passed each item as a prop to `RestroCard`
+* Learned the importance of the `key` prop when rendering lists
+
 ---
 
 ## 🛠️ Tech Stack
@@ -47,7 +56,7 @@ Whether you are a fellow learner or a recruiter reviewing my profile, feel free 
 ## 👤 Author
 
 **Raghav**
-- GitHub: [@raghav](https://github.com/raghav)
+- GitHub: [@raghav](https://github.com/Raghav000001)
 
 ---
 
